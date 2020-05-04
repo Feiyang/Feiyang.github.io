@@ -10,7 +10,7 @@ paperurl: "https://arxiv.org/abs/1905.10713"
 video: "https://youtu.be/_uQlorn1X5A"
 authorlist: "Feiyang Pan, Xiang Ao, Pingzhong Tang, Min Lu, Dapeng Liu, Lei Xiao and Qing He"
 citation: "Feiyang Pan, Xiang Ao, Pingzhong Tang, Min Lu, Dapeng Liu, Lei Xiao and Qing He. 2020. Field-aware calibration: a simple and empirically strong method for reliable probabilistic predictions. In Proceedings of the 2020 World Wide Web Conference (WWW'19), May 13-17, 2019, San Francisco, CA, USA. ACM, New York, NY, USA, 11 pages. https://doi.org/10.1145/3308558.3313616"
-status: 'acc'
+status: 'pub'
 ---
 **Abstract:**
 It is often observed that the probabilistic predictions given by a machine learning model can disagree with averaged actual outcomes on specific subsets of data, which is also known as the issue of miscalibration. It is responsible for the unreliability of practical machine learning systems. For example, in online advertising, an ad can receive a click-through rate prediction of 0.1 over some population of users where its actual click rate is 0.15. In such cases, the probabilistic predictions have to be fixed before the system can be deployed.
