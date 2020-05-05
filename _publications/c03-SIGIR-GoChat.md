@@ -6,7 +6,6 @@ excerpt: "GoChat: Goal Oriented Chatbots with Hierarchical Reinforcement Learnin
 date: 2020-05-05
 venue: "SIGIR"
 year: 2020
-paperurl: ""
 authorlist: "Jianfeng Liu, Feiyang Pan*, Ling Luo"
 status: 'acc'
 ---
