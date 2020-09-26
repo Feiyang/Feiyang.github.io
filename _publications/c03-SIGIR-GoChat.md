@@ -7,7 +7,7 @@ date: 2020-05-05
 venue: "SIGIR"
 year: 2020
 authorlist: "Jianfeng Liu, Feiyang Pan*, Ling Luo"
-status: 'acc'
+status: 'pub'
 ---
 **Abstract:**
 A chatbot that converses like a human should be goal-oriented (i.e., be purposeful in conversation), which is beyond language generation. 
@@ -16,4 +16,4 @@ In this paper, we propose **Goal-oriented Chatbots (GoChat)**, a framework for e
 Our framework utilizes hierarchical reinforcement learning (HRL), where the high-level policy guides the conversation towards the final goal by determining some sub-goals, and the low-level policy fulfills the sub-goals by generating the corresponding utterance for response.
 In our experiments on a real-world dialogue dataset for anti-fraud in financial, our approach outperforms previous methods on both the quality of response generation as well as the success rate of accomplishing the goal. 
 
-PDF: Coming soon.
+**Download: [[PDF]](https://arxiv.org/abs/2005.11729)**
