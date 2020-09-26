@@ -8,6 +8,7 @@ venue: "SIGIR"
 year: 2020
 authorlist: "Jianfeng Liu, Feiyang Pan*, Ling Luo"
 status: 'pub'
+paperurl: "https://arxiv.org/abs/2005.11729"
 ---
 **Abstract:**
 A chatbot that converses like a human should be goal-oriented (i.e., be purposeful in conversation), which is beyond language generation. 
