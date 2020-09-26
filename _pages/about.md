@@ -14,7 +14,7 @@ redirect_from:
 
 ## About me
 
-I am a 4th-year PhD candidate under the supervision of [Prof. Qing He](http://people.ucas.edu.cn/~0000964?language=en) at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
+I am a 5th-year PhD candidate under the supervision of [Prof. Qing He](http://people.ucas.edu.cn/~0000964?language=en) at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
 
 I am also currently a Ph.D. visitor at IIIS, Tsinghua University, under supervision of [Prof. Pingzhong Tang](http://iiis.tsinghua.edu.cn/~kenshin/).
 
@@ -27,7 +27,7 @@ Wechat: pfy824
 
 ## Research Interests
 
-My research focuses on machine learning and applications. In particular, I am working on Reinforcement Learning, Meta-Learning, Uncertainty in AI, and their applications, e.g., recommendation, advertising, and FinTech.
+My research focuses on machine learning and applications. In particular, I am working on Reinforcement Learning, Uncertainty in AI, and their applications, e.g., recommendation, advertising, and FinTech.
 
 _Rather than exploiting the knowledge, I prefer exploring intelligence._
 
