@@ -47,6 +47,8 @@ _Rather than exploiting the knowledge, I prefer exploring intelligence._
 {% endfor %}</ul>
 
 ## Selected competitions and awards
+* (new) **NeurIPS-2020**: ProcGen competition (on sample efficiency and generalization in reinforcement learning), **\#1** in round-1, **\#2** in round-2.
+
 Before diving into research, I was a top-class player in machine learning contests. My highest ranking at Kaggle was 63/90000+.
 * **Kaggle**: Recruit restaurant visitor forecasting, **\#1** / 2158, 2018.
 * **Kaggle**: TalkingData AdTracking fraud detection challenge, **\#2** / 3967, 2018.
