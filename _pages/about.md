@@ -15,6 +15,7 @@ redirect_from:
 ## About me
 
 I am a 5th-year PhD candidate under the supervision of [Prof. Qing He](http://people.ucas.edu.cn/~0000964?language=en) at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
+I recently won the XiaPeisu Scholarship, the top award of ICT, CAS.
 
 I am also currently a Ph.D. visitor at IIIS, Tsinghua University, under supervision of [Prof. Pingzhong Tang](http://iiis.tsinghua.edu.cn/~kenshin/).
 
@@ -57,8 +58,9 @@ Before diving into research, I was a top-class player in machine learning contes
 * CCF BDCI 2018 competition on personalized telecom package recommendation, **\#1** / 2546, 2018.
 
 Some awards in my graduate and undergraduate school:
+* XiaPeisu Scholarship, 2021 (the top award in ICT, CAS, only two people get the award every year).
 * National Scholarship, 2019.
-* LvDe Scholarship (one of the top scholarships in ICT, CAS), 2019.
+* LvDe Scholarship (one of the top awards in ICT, CAS), 2019.
 * First-class Scholarship of ICT, CAS, 2017.
 * Excellent Undergraduate Thesis of USTC, 2016.
 * Outstanding Graduate of USTC, 2016.
