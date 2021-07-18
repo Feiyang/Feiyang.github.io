@@ -31,17 +31,8 @@ My research focuses on machine learning and applications. In particular, I am wo
 
 _Rather than exploiting the knowledge, I prefer exploring intelligence._
 
-## Academic visits, internships, and industry collaborations
-
-* Ph.D. visitor at [Prof. Pingzhong Tang](http://iiis.tsinghua.edu.cn/~kenshin/)'s group in [IIIS, Tsinghua University](http://iiis.tsinghua.edu.cn/), 2018-2020.
-* Research intern at Machine Learning Group of Ant Financial AI under supervision of Dr. Yuan (Alan) Qi, 2019.
-* Research collaboration with Technical Advertising for deep reinforcement learning approaches, 2019-2020.
-* Research collaboration with Ant Financial for reinforced anti-fraud mechanisms, 2019-2020.
-* Research collaboration with Tencent TEG for advanced methods in advertising, 2018-2019.
-* Research collaboration with Alibaba for reinforcement learning in e-commerce, 2018-2019.
-
 ## Publications
-*New: our paper "Follow the Prophet: Accurate Online Conversion Rate Prediction in the Face of Delayed Feedback" won the SIGIR 2021 Best Short Paper Honorable Mention award! Congrats to Haoming and our coauthors!*
+<font color="#006666">*New: our paper "Follow the Prophet: Accurate Online Conversion Rate Prediction in the Face of Delayed Feedback" won the **SIGIR 2021 Best Short Paper Honorable Mention** award! Congrats to Haoming and our coauthors!*</font><br /> 
 
 <ul>{% for post in site.publications reversed %}
 {% include archive-single-cv.html %}
@@ -64,3 +55,12 @@ Some awards in my graduate and undergraduate school:
 * First-class Scholarship of ICT, CAS, 2017.
 * Excellent Undergraduate Thesis of USTC, 2016.
 * Outstanding Graduate of USTC, 2016.
+
+## Academic visits, internships, and industry collaborations
+
+* Ph.D. visitor at [Prof. Pingzhong Tang](http://iiis.tsinghua.edu.cn/~kenshin/)'s group in [IIIS, Tsinghua University](http://iiis.tsinghua.edu.cn/), 2018-2020.
+* Research intern at Machine Learning Group of Ant Financial AI under supervision of Dr. Yuan (Alan) Qi, 2019.
+* Research collaboration with Technical Advertising for deep reinforcement learning approaches, 2019-2020.
+* Research collaboration with Ant Financial for reinforced anti-fraud mechanisms, 2019-2020.
+* Research collaboration with Tencent TEG for advanced methods in advertising, 2018-2019.
+* Research collaboration with Alibaba for reinforcement learning in e-commerce, 2018-2019.
