@@ -14,27 +14,26 @@ redirect_from:
 
 ## About me
 
-I am a 5th-year PhD candidate under the supervision of [Prof. Qing He](http://people.ucas.edu.cn/~0000964?language=en) at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
-I recently won the XiaPeisu Scholarship, the top award of ICT, CAS.
-
-I am also currently a Ph.D. visitor at IIIS, Tsinghua University, under supervision of [Prof. Pingzhong Tang](http://iiis.tsinghua.edu.cn/~kenshin/).
+I received my PhD degree in June 2021, under the supervision of Prof. Qing He at Machine Learning and Data Mining group, Institute of Computing Technology, Chinese Academy of Sciences (ICT, CAS).
+During my PhD, I won the XiaPeisu Scholarship, the top award of ICT, CAS.
+I was also a PhD visitor at IIIS, Tsinghua University, under supervision of Prof. Pingzhong Tang.
 
 I received my B.S. of Statistics and a dual degree of CS from the [School of the Gifted Young, USTC](https://en.scgy.ustc.edu.cn/) in 2016.
 
 ### Contact information
-Email: panfeiyang@ict.ac.cn
+Email: pfy824@gmail.com
 
 Wechat: pfy824
 
 ## Research Interests
 
-My research focuses on machine learning and applications. In particular, I am working on Reinforcement Learning, Uncertainty in AI, and their applications, e.g., recommendation, advertising, and FinTech.
+My research focuses on machine learning and applications. In particular, I am working on Reinforcement Learning, Uncertainty in AI, and their applications, e.g., quantitative finance, recommendation, and advertising.
 
 _Rather than exploiting the knowledge, I prefer exploring intelligence._
 
 ## Academic visits, internships, and industry collaborations
 
-* Ph.D. visitor at [Prof. Pingzhong Tang](http://iiis.tsinghua.edu.cn/~kenshin/)'s group in [IIIS, Tsinghua University](http://iiis.tsinghua.edu.cn/), since 2018.
+* Ph.D. visitor at [Prof. Pingzhong Tang](http://iiis.tsinghua.edu.cn/~kenshin/)'s group in [IIIS, Tsinghua University](http://iiis.tsinghua.edu.cn/), 2018-2020.
 * Research intern at Machine Learning Group of Ant Financial AI under supervision of Dr. Yuan (Alan) Qi, 2019.
 * Research collaboration with Technical Advertising for deep reinforcement learning approaches, 2019-2020.
 * Research collaboration with Ant Financial for reinforced anti-fraud mechanisms, 2019-2020.
@@ -42,6 +41,7 @@ _Rather than exploiting the knowledge, I prefer exploring intelligence._
 * Research collaboration with Alibaba for reinforcement learning in e-commerce, 2018-2019.
 
 ## Publications
+*New: our paper "Follow the Prophet: Accurate Online Conversion Rate Prediction in the Face of Delayed Feedback" won the SIGIR 2021 Best Student Paper Honorable Mention award!*
 
 <ul>{% for post in site.publications reversed %}
 {% include archive-single-cv.html %}
