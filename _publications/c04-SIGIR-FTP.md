@@ -6,6 +6,7 @@ excerpt: "Follow the Prophet: Accurate Online Conversion Rate Prediction in the 
 date: 2021-04-15
 venue: "SIGIR"
 year: 2021
+paperurl: "https://dl.acm.org/doi/abs/10.1145/3404835.3463045"
 authorlist: "Haoming Li, Feiyang Pan, Xiang Ao, Zhao Yang, Min Lu, Junwei Pan, Dapeng Liu, Lei Xiao, Qing He"
 status: 'pub'
 ---

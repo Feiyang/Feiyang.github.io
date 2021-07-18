@@ -41,7 +41,7 @@ _Rather than exploiting the knowledge, I prefer exploring intelligence._
 * Research collaboration with Alibaba for reinforcement learning in e-commerce, 2018-2019.
 
 ## Publications
-*New: our paper "Follow the Prophet: Accurate Online Conversion Rate Prediction in the Face of Delayed Feedback" won the SIGIR 2021 Best Student Paper Honorable Mention award!*
+*New: our paper "Follow the Prophet: Accurate Online Conversion Rate Prediction in the Face of Delayed Feedback" won the SIGIR 2021 Best Short Paper Honorable Mention award! Congrats to Haoming and our coauthors!*
 
 <ul>{% for post in site.publications reversed %}
 {% include archive-single-cv.html %}
